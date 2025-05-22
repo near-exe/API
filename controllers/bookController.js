@@ -1,4 +1,3 @@
-// controllers/bookController.js (or wherever you're handling the logic)
 const db = require('../firebase');
 
 const getAllBooks = async (req, res) => {
